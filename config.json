@@ -1,0 +1,47 @@
+{
+	"name": "Example React External Module",
+
+	"namespace": "Utah\\ExampleReactModule",
+
+	"description": "This is a simple example of a running external module with a React frontend.",
+
+	"documentation": "README.md",
+
+	"authors": [		{
+			"name": "Sumon Chattopadhyay",
+			"email": "sumon.chattopadhyay@utah.edu",
+			"institution": "University of Utah BMIC"
+		}
+	],
+
+	"permissions": [
+    
+  ],
+
+	"links": {
+		"project": [
+      {
+        "name": "Example Plugin",
+        "key": "examplePlugin",
+        "icon": "link",
+        "url": "example_plugin.php"
+     }
+		],
+		"control-center": [
+		]
+	},
+
+	"no-auth-pages": [
+	],
+
+	"project-settings": [
+
+	],
+
+	"compatibility": {
+		"php-version-min": "",
+		"php-version-max": "",
+		"redcap-version-min": "",
+		"redcap-version-max": ""
+	}
+}

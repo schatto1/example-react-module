@@ -1,47 +1,48 @@
 {
-	"name": "Example React External Module",
+  "name": "Example React External Module",
 
-	"namespace": "Utah\\ExampleReactModule",
+  "namespace": "ExampleReact\\ExternalModule",
 
-	"description": "This is a simple example of a running external module with a React frontend.",
+  "description": "This is a simple example of a running external module with a React frontend, built with create-react-app.",
 
-	"documentation": "README.md",
+  "documentation": "README.md",
 
-	"authors": [		{
-			"name": "Sumon Chattopadhyay",
-			"email": "sumon.chattopadhyay@utah.edu",
-			"institution": "University of Utah BMIC"
-		}
-	],
-
-	"permissions": [
-    
+  "authors": [
+    {
+      "name": "Sumon Chattopadhyay",
+      "email": "sumon.chattopadhyay@utah.edu",
+      "institution": "University of Utah BMIC"
+    }
   ],
 
-	"links": {
-		"project": [
+  "permissions": [],
+
+  "links": {
+    "project": [
       {
-        "name": "Example Plugin",
-        "key": "examplePlugin",
+        "name": "Example React Plugin Page",
+        "key": "reactPlugin",
         "icon": "link",
-        "url": "example_plugin.php"
-     }
-		],
-		"control-center": [
-		]
-	},
+        "url": "react_plugin.php"
+      },
+      {
+        "name": "React App",
+        "key": "reactApp",
+        "icon": "download",
+        "url": "build/index.html"
+      }
+    ],
+    "control-center": []
+  },
 
-	"no-auth-pages": [
-	],
+  "no-auth-pages": [],
 
-	"project-settings": [
+  "project-settings": [],
 
-	],
-
-	"compatibility": {
-		"php-version-min": "",
-		"php-version-max": "",
-		"redcap-version-min": "",
-		"redcap-version-max": ""
-	}
+  "compatibility": {
+    "php-version-min": "",
+    "php-version-max": "",
+    "redcap-version-min": "",
+    "redcap-version-max": ""
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/redcap/modules/example_react_module_v0.0.1/build/static/css/main.073c9b0a.css",
+    "main.js": "/redcap/modules/example_react_module_v0.0.1/build/static/js/main.8c65c250.js",
+    "static/js/787.3c4d742b.chunk.js": "/redcap/modules/example_react_module_v0.0.1/build/static/js/787.3c4d742b.chunk.js",
+    "static/media/logo.svg": "/redcap/modules/example_react_module_v0.0.1/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/redcap/modules/example_react_module_v0.0.1/build/index.html",
+    "main.073c9b0a.css.map": "/redcap/modules/example_react_module_v0.0.1/build/static/css/main.073c9b0a.css.map",
+    "main.8c65c250.js.map": "/redcap/modules/example_react_module_v0.0.1/build/static/js/main.8c65c250.js.map",
+    "787.3c4d742b.chunk.js.map": "/redcap/modules/example_react_module_v0.0.1/build/static/js/787.3c4d742b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8c65c250.js"
+  ]
+}
